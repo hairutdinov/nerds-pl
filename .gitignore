@@ -1,0 +1,7 @@
+gulp/dist
+gulp/gulpfile.js
+gulp/index.html
+gulp/*.json
+gulp/src
+.idea/
+/**/.idea
